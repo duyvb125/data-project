@@ -1,6 +1,0 @@
-Thời gian chạy ETL:
-- SSIS On-premises: 15s
-- T-SQL Procedure On-premises: 4s
-- T-SQL Procedure Cloud Data Warehouse: 
-    + load dim: trung bình 4s 1 bảng
-    + load fact: 5s
